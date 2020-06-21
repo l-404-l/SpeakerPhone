@@ -1,6 +1,10 @@
 # SpeakerPhone
 Aids mic for you or for everyone in the lobby
 
+# Keybinds
+- Left Control  + K = everyones mic seem aids
+- Left Control  + G = your mic goes aids
+
 # Requirements
 - Use [MLEZUpdater](https://github.com/l-404-l/MLEZUpdater) for perfect Installation.
 
